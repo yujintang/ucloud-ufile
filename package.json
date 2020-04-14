@@ -1,0 +1,19 @@
+{
+  "name": "ucloud-ufile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yujintang/ucloud-ufile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yujintang/ucloud-ufile/issues"
+  },
+  "homepage": "https://github.com/yujintang/ucloud-ufile#readme"
+}
